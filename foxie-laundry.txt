@@ -1,0 +1,7 @@
+Foxie akan mencuci pakaiannya menggunakan mesin cuci. Pakaian yang akan dicuci oleh Foxie sebanyak 20 dan akan dimasukkan ke mesin cuci. Tombol power mesin cuci akan menyala jika semua pakaian Foxie sudah masuk ke mesin cuci.
+
+pseudocode
+input jumlah baju yang masuk dengan angka 0
+input jumlah baju tersedia 20
+for 
+

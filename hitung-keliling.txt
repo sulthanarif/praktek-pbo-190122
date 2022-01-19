@@ -1,0 +1,27 @@
+// Objectives
+
+Memahami struktur alur program dengan algoritma dan pseudocode
+
+Dapat membuat algoritma dan pseudocode dari sebuah permasalahan kecil
+
+// Directions
+
+Kamu diminta untuk membuat sebuah algoritma dan pseudocode untuk menghitung keliling sebuah lingkaran dimana hasil perhitungan akan ditampilkan.
+
+Secara matematis rumus keliling lingkaran adalah 2 x pi x jari-jari
+
+
+algoritma
+1. siapkan variable 
+    1.1. input jari-jari dengan number
+    1.2. input pi dengan number 3.14
+2. hitung keliling lingkaran 2*pi*jari-jari
+3. tampilkan hasil keliling lingkaran
+4. selesai
+
+pseudocode
+INPUT jari-jari dengan number
+INPUT pi dengan number
+Calculate 2*pi*jari-jari
+DISPLAY hasil 
+END
